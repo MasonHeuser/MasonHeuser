@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 How to reach me:
-:envelope: : masonheuser@gmail.com
-:globe_with_meridians: : <a href="https://masonheuser.com">Website</a>
+- :envelope: masonheuser@gmail.com
+- :globe_with_meridians: <a href="https://masonheuser.com">Website</a>
 
 ## Languages
 <p align="left">
