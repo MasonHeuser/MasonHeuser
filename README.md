@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 
 [![Langs | Frameworks](https://skillicons.dev/icons?i=html,css,js,cs,cpp)](https://skillicons.dev)
 
+<h1>Langs</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp" />
+  </a>
+</p>
+<h2>Frameworks</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot" />
   </a>
 </p>
