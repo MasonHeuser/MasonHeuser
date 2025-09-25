@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Langs | Frameworks](https://skillicons.dev/icons?i=js,html,css,cs,cpp)](https://skillicons.dev)
+[![Langs | Frameworks](https://skillicons.dev/icons?i=html,css,js,cs,cpp)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
