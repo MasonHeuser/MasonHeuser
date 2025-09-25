@@ -15,15 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+How to reach me:
+:envelope: : masonheuser@gmail.com
+:globe_with_meridians: : <a href="https://masonheuser.com">Website</a>
+
 ## Languages
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,php,html,css,js,py" />
   </a>
 </p>
+
 ## Frameworks
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,vue,react,nextjs,wordpress,tailwind,threejs,blender,htmx,nodejs" />
+    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,vue,react,nextjs,wordpress,tailwind,threejs,mysql,blender,htmx,nodejs" />
   </a>
 </p>
