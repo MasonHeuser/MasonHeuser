@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Langs | Frameworks](https://skillicons.dev/icons?i=html,css,js,cs,cpp)](https://skillicons.dev)
-
-<h1>Langs</h1>
+## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,py,mysql" />
   </a>
 </p>
-<h2>Frameworks</h2>
+## Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot" />
+    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,vue,react,nextjs,wordpress,tailwind,threejs,blender,htmx,nodejs" />
   </a>
 </p>
