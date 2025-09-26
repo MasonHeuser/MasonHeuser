@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- :sunglasses: Programmer/Developer of 8+ years
+- :video_game: Passionate game developer
+- :bear: Experience with software & computers since I was old enough to press a key
+- :coffee: Projects made possible by copious amounts of caffiene and foolish ambition
+
 🤔 How to reach me! :
 - :envelope: <a href="mailto:masonheuser@gmail.com">masonheuser@gmail.com</a>
 - :globe_with_meridians: <a href="https://masonheuser.com">Website</a>
