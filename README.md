@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - :sunglasses: Programmer/Developer of 8+ years
 - :video_game: Passionate game developer
 - :heart: Creative at heart
-- :wrench: Professional problem solver, occasional problem maker
+- :wrench: Focused on solutions, fluent in problem solving
 - :bear: Experience with software & computers since I was old enough to press a key
 - :coffee: Projects made possible by copious amounts of caffeine and foolish ambition
 
