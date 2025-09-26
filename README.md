@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Mason! 👋
 
 <!--
 **MasonHeuser/MasonHeuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 - :sunglasses: Programmer/Developer of 8+ years
 - :video_game: Passionate game developer
+- :heart: Creative at heart
+- :wrench: Professional problem solver, occasional problem maker
 - :bear: Experience with software & computers since I was old enough to press a key
-- :coffee: Projects made possible by copious amounts of caffiene and foolish ambition
+- :coffee: Projects made possible by copious amounts of caffeine and foolish ambition
 
 🤔 How to reach me! :
 - :envelope: <a href="mailto:masonheuser@gmail.com">masonheuser@gmail.com</a>
-- :globe_with_meridians: <a href="https://masonheuser.com">Website</a>
+- :globe_with_meridians: <a href="https://masonheuser.com">Personal Website</a>
 
 ## Languages
 <p align="left">
